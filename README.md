@@ -1,1 +1,1 @@
-# 1913166_vanshikamishra
+Minimum support = 50%
